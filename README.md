@@ -1,1 +1,1 @@
-# GAIP.github.io
+# GAIP
